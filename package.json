@@ -1,0 +1,23 @@
+{
+  "name": "jpeg-and-png-to-webp-converter",
+  "version": "1.0.0",
+  "description": "Converts JPEG and PNG to WebP",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlixAkhribi/JPEG-and-PNG-to-WebP-converter.git"
+  },
+  "author": "Alix Akhribi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlixAkhribi/JPEG-and-PNG-to-WebP-converter/issues"
+  },
+  "homepage": "https://github.com/AlixAkhribi/JPEG-and-PNG-to-WebP-converter#readme",
+  "dependencies": {
+    "imagemin": "^7.0.1",
+    "imagemin-webp": "^5.1.0"
+  }
+}
